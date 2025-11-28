@@ -8,16 +8,16 @@
     Based in <b>Trujillo, Peru</b> 🇵🇪 | <b>Universidad Nacional de Trujillo</b> Student
   </p>
 
-  <a href="https://www.linkedin.com/in/leonardo-javier-guimaray-matute">
+  <a href="https://www.linkedin.com/in/leonardo-javier-guimaray-matute" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://g.dev/lolopro">
+  <a href="https://g.dev/lolopro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google-developers&logoColor=white" alt="Google Developers" />
   </a>
-  <a href="https://orcid.org/0009-0004-4065-7565">
+  <a href="https://orcid.org/0009-0004-4065-7565" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  <a href="https://twitter.com/leonardojavg">
+  <a href="https://twitter.com/leonardojavg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 
