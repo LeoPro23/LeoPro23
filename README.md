@@ -1,4 +1,3 @@
-<!-- Banner opcional: Puedes poner una imagen de cabecera aquí si tienes una -->
 <div align="center">
   
   # Hi there, I'm Leonardo Javier Guimaray Matute 👋
@@ -82,7 +81,7 @@ As a Senior Developer, I have mastered a wide variety of tools and languages. He
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoPro23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true&hide=stars" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoPro23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true&hide=stars&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPro23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 </div>
 
