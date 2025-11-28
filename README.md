@@ -82,11 +82,12 @@ As a Senior Developer, I have mastered a wide variety of tools and languages. He
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeoPro23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true&hide=stars&count_private=true" alt="GitHub Stats" height="180"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPro23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoPro23&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoPro23&theme=tokyonight&hide_border=true&background=0D1117&timezone=America/Lima" alt="Streak Stats" />
 </div>
 
 ---
