@@ -3,10 +3,10 @@
   
   # Hi there, I'm Leonardo Javier Guimaray Matute 👋
   
-  <h3>Senior Fullstack Developer | Software Engineer</h3>
+  <h3>Fullstack Developer | Software Engineer</h3>
 
   <p>
-    Based in <b>Trujillo, Peru</b> 🇵🇪 | <b>Universidad Nacional de Trujillo</b> Alumni
+    Based in <b>Trujillo, Peru</b> 🇵🇪 | <b>Universidad Nacional de Trujillo</b> Student
   </p>
 
   <a href="https://www.linkedin.com/in/leonardo-javier-guimaray-matute">
