@@ -17,9 +17,6 @@
   <a href="https://orcid.org/0009-0004-4065-7565">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  <a href="https://twitter.com/leonardojavg">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
 
   <br /><br />
 </div>
