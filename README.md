@@ -91,5 +91,5 @@ As a Senior Developer, I have mastered a wide variety of tools and languages. He
 
 <div align="center">
   <p>Let's build something amazing together!</p>
-  <p>© 2025 Leonardo Javier Guimaray Matute | lolodev</p>
+  <p>© 2026 Leonardo Javier Guimaray Matute | lolodev</p>
 </div>
